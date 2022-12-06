@@ -1,3 +1,12 @@
-articulo1{
-    background-color: blueviolet;
+article{
+    background-color: rgb(201, 240, 174);
+}
+
+#parrafo_2{
+    color: red;
+}
+
+.titulo_1{
+    background-color: blue;
+    color: white;
 }
